@@ -1,27 +1,47 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Employee from './Component/Employee';
+import Schedule from './Component/Schedule';
+
+const user1 ={
+    day1:'Monday 1am-1pm',
+    day2:'tuesday 1am-1pm',
+    day3:'wednesday 1am -1pm',
+};
+const user2={
+    day1:'thursday 2am-2pm',
+    day2:'tuesday 2am-2pm',
+    day3:'wednesday 2am -2pm',
+};
+const user3={
+    day1:'Monday 3am-3pm',
+    day2:'tuesday 3am-3pm',
+    day3:'wednesday 3am -3pm',
+};
 
 class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
-      </div>
-    );
+    displaySchedule= (id)=>{
+        console.log(user1);
+        console.log('button id:'+id);
+
+    };
+    render() {
+        return (
+            <div style={styles.appContainerStyle}>
+                    <Employee displaySchedule={this.displaySchedule}/>
+                    <Schedule userSchedule={user3}/>
+            </div>
+        );
+    }
+};
+
+const styles = {
+
+  appContainerStyle: {
+    display : 'flex',
+    flex:1,
+    height:'100vh',
+    width:'100vw',
+    flexDirection: 'row',
   }
 }
 
