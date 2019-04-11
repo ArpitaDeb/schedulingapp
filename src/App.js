@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Employee from './Component/Employee';
 import Schedule from './Component/Schedule';
 
+
 const user1 ={
     day1:'Monday 1am-1pm',
     day2:'tuesday 1am-1pm',
@@ -42,6 +43,12 @@ const styles = {
     height:'100vh',
     width:'100vw',
     flexDirection: 'row',
+  }
+};
+
+const style = {
+  appContainerStyle: {
+    
   }
 }
 

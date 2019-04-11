@@ -2,12 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b54bf3e8-088c-4330-9397-6f63f8d9380c" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Component/Employee.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Employee.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Component/Schedule.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Component/Schedule.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/Component/Employee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Component/Schedule.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+>>>>>>> aa1d2e85fbb586b53ea6dbe8ce795452c0cb1183
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,10 +54,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/Component/Schedule.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
+=======
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Component/Employee.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-243">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Component/Schedule.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/serviceWorker.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+>>>>>>> aa1d2e85fbb586b53ea6dbe8ce795452c0cb1183
             </state>
           </provider>
         </entry>
@@ -56,7 +116,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+<<<<<<< HEAD
         <option value="CSS File" />
+=======
+>>>>>>> aa1d2e85fbb586b53ea6dbe8ce795452c0cb1183
       </list>
     </option>
   </component>
@@ -68,6 +131,7 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/App.css" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Component/Schedule.js" />
         <option value="$PROJECT_DIR$/Component/Employee.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
@@ -75,6 +139,14 @@
         <option value="$PROJECT_DIR$/src/Component/Employee.js" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/index.css" />
+=======
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/Component/Schedule.js" />
+        <option value="$PROJECT_DIR$/Component/Employee.js" />
+        <option value="$PROJECT_DIR$/src/Component/Employee.js" />
+        <option value="$PROJECT_DIR$/src/Component/Schedule.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+>>>>>>> aa1d2e85fbb586b53ea6dbe8ce795452c0cb1183
       </list>
     </option>
   </component>
@@ -96,6 +168,20 @@
               <item name="schedulingapp" type="b2602c69:ProjectViewProjectNode" />
               <item name="schedulingapp" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
+            <path>
+              <item name="schedulingapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="schedulingapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="schedulingapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="schedulingapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Component" type="462c0819:PsiDirectoryNode" />
+            </path>
+>>>>>>> aa1d2e85fbb586b53ea6dbe8ce795452c0cb1183
           </expand>
           <select />
         </subPane>
@@ -106,7 +192,10 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Autumn" />
+<<<<<<< HEAD
     <property name="list.type.of.created.stylesheet" value="CSS" />
+=======
+>>>>>>> aa1d2e85fbb586b53ea6dbe8ce795452c0cb1183
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="C:\Users\arpit\practiceapp\schedulingapp\node_modules\eslint" />
@@ -141,12 +230,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554743637307</updated>
+<<<<<<< HEAD
       <workItem from="1554743638754" duration="5624000" />
+=======
+      <workItem from="1554743638754" duration="3495000" />
+>>>>>>> aa1d2e85fbb586b53ea6dbe8ce795452c0cb1183
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="5624000" />
+=======
+    <option name="totallyTimeSpent" value="3495000" />
+>>>>>>> aa1d2e85fbb586b53ea6dbe8ce795452c0cb1183
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
@@ -192,16 +289,25 @@
     <entry file="file://$PROJECT_DIR$/src/App.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="404">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/serviceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+>>>>>>> aa1d2e85fbb586b53ea6dbe8ce795452c0cb1183
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Component/Employee.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-324">
@@ -243,6 +349,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/Employee.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Component/Schedule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+>>>>>>> aa1d2e85fbb586b53ea6dbe8ce795452c0cb1183
         </state>
       </provider>
     </entry>

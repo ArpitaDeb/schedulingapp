@@ -1,5 +1,6 @@
 import React,{Component} from 'react';
 
+
 const style= {
     empStyle: {
         display: 'flex',
@@ -46,7 +47,6 @@ class Employee extends Component{
                 >
                     User 3
                 </button>
-
             </div>
         );
     }
